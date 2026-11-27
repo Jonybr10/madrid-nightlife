@@ -35,7 +35,7 @@ jobs:
           print(len(d['events']), 'events;',len(ids),'venues')
           PY
           mkdir -p _site
-          cp index.html agenda.json _site/
+          cp index.html agenda.json worldwide.js _site/
           if [ -f catalog/index.json ]; then
             python3 - <<'PY'
           import json, pathlib
@@ -48,10 +48,22 @@ jobs:
               assert all(len(row)==len(data['fields']) for row in rows), key
               if key!='review':
                   assert len({tuple(row[:3]) for row in rows})==len(rows), key
-          print('DICE international catalog validated')
+          world=json.loads(pathlib.Path('catalog/world-events.json').read_text())
+          venue_map={v['id']:v for v in world['venues']}
+          assert len(venue_map)==len(world['venues'])
+          assert len({e['id'] for e in world['events']})==len(world['events'])
+          for e in world['events']:
+              v=venue_map[e['venueId']]
+              assert (e['country'],e['city'])==(v['country'],v['city'])
+              datetime=__import__('datetime').date
+              datetime.fromisoformat(e['date'])
+              if e.get('endDate'):
+                  assert datetime.fromisoformat(e['endDate'])>=datetime.fromisoformat(e['date'])
+              assert e['source'].startswith('https://')
+          print('DICE catalog and international event references validated')
           PY
             mkdir -p _site/catalog/dice
-            cp catalog/index.json _site/catalog/
+            cp catalog/index.json catalog/world-events.json _site/catalog/
             cp catalog/dice/*.json _site/catalog/dice/
           fi
           touch _site/.nojekyll

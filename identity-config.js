@@ -3,6 +3,8 @@
 // The privateHostingVerified flag is only a release checklist gate, NOT server-side access control.
 window.AAA_IDENTITY_CONFIG = Object.freeze({
   enabled: false,
+  environment: "unconfigured",
+  testPasswordEnabled: false,
   privateHostingVerified: false,
   url: "",
   publishableKey: "",

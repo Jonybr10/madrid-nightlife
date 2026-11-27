@@ -89,4 +89,13 @@ begin
 end; $$;
 revoke all on function public.aaa_provision_fixture(uuid,text) from public,anon,authenticated,service_role;
 grant execute on function public.aaa_provision_fixture(uuid,text) to service_role;
+create function public.aaa_assert_staging() returns boolean
+language plpgsql stable security definer set search_path='' as $
+begin
+  if not exists(select 1 from aaa_private.environment where singleton and kind='staging')
+  then raise exception 'Not a staging database' using errcode='42501'; end if;
+  return true;
+end; $;
+revoke all on function public.aaa_assert_staging() from public,anon,authenticated,service_role;
+grant execute on function public.aaa_assert_staging() to service_role;
 commit;

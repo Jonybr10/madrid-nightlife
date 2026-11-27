@@ -27,7 +27,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://fitzclubmadrid.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -96,7 +96,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/club/rubicon",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -136,7 +136,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.blondieclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -163,7 +163,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://xceed.me/es/organizer/goya-social-club",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -206,7 +206,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://lula.club/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -258,7 +258,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://bassmntclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -296,7 +296,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.mondodisko.es/eventos/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -327,7 +327,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -364,7 +364,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -386,7 +386,7 @@
           }
         ],
         "declaredIds": [],
-        "sampleEvents": 13
+        "sampleEvents": 14
       }
     },
     {
@@ -401,37 +401,52 @@
       "activeStatus": "pendiente de revisión",
       "music": {
         "ids": [
-          "remember",
-          "electronic",
           "house",
-          "techno"
+          "techno",
+          "tech-house",
+          "electronic",
+          "remember",
+          "melodic-techno",
+          "bass-house"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.labtheclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
+          {
+            "id": "house",
+            "eventCount": 5
+          },
+          {
+            "id": "techno",
+            "eventCount": 5
+          },
+          {
+            "id": "tech-house",
+            "eventCount": 5
+          },
+          {
+            "id": "electronic",
+            "eventCount": 4
+          },
           {
             "id": "remember",
             "eventCount": 3
           },
           {
-            "id": "electronic",
-            "eventCount": 3
-          },
-          {
-            "id": "house",
+            "id": "melodic-techno",
             "eventCount": 2
           },
           {
-            "id": "techno",
+            "id": "bass-house",
             "eventCount": 1
           }
         ],
         "declaredIds": [],
-        "sampleEvents": 9
+        "sampleEvents": 33
       }
     },
     {
@@ -456,7 +471,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/bonded",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -497,7 +512,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -544,7 +559,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -592,7 +607,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -615,7 +630,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -638,7 +653,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -661,7 +676,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -684,7 +699,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -710,7 +725,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -742,7 +757,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -767,7 +782,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -804,7 +819,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://fabrikmadrid.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -864,7 +879,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.ifema.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -907,7 +922,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.specka.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -957,7 +972,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://teatrokapital.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -985,7 +1000,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1010,7 +1025,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1038,7 +1053,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1063,7 +1078,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1094,7 +1109,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1126,7 +1141,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1149,7 +1164,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1174,7 +1189,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1204,7 +1219,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1241,7 +1256,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1297,7 +1312,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1329,7 +1344,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1389,7 +1404,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1427,7 +1442,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1437,7 +1452,7 @@
           }
         ],
         "declaredIds": [],
-        "sampleEvents": 5
+        "sampleEvents": 6
       }
     },
     {
@@ -1455,7 +1470,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1481,7 +1496,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1516,7 +1531,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1552,7 +1567,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1593,7 +1608,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1636,7 +1651,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1672,7 +1687,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1712,7 +1727,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1748,7 +1763,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1774,7 +1789,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1808,7 +1823,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1837,7 +1852,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1872,7 +1887,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://linktr.ee/61.sixtyone",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -1902,7 +1917,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/club/istar",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1940,7 +1955,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/club/los-amantes",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1979,7 +1994,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://victoriatheclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2009,7 +2024,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/club/nomada",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2047,7 +2062,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.todossantosclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2084,7 +2099,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://libertyclubmadrid.com/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2112,7 +2127,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/club/la-flaca-tardeo",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2140,7 +2155,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.gabana.es/sesiones/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2168,7 +2183,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.pantheramadrid.com/programacion",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2199,8 +2214,8 @@
         ],
         "primary": null,
         "status": "legacy_label",
-        "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "confidence": null,
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://clubperronegro.com/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2230,7 +2245,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.timeout.es/madrid/es/clubs/graf",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2258,7 +2273,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.esmadrid.com/noche/el-doblon",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2286,7 +2301,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.esmadrid.com/barrio-de-salamanca-noche",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2314,7 +2329,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/club/panda-club",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2347,7 +2362,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/promoters/77821",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2396,7 +2411,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://es-mx.ra.co/clubs/169583",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2425,16 +2440,23 @@
       "additionalSources": [],
       "reviewedAt": "2026-11-27",
       "music": {
-        "ids": [],
+        "ids": [
+          "remember"
+        ],
         "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "status": "observed_programming",
+        "confidence": "medium",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://salaelsol.com/agenda/",
         "reviewedAt": "2026-11-27",
-        "observed": [],
+        "observed": [
+          {
+            "id": "remember",
+            "eventCount": 1
+          }
+        ],
         "declaredIds": [],
-        "sampleEvents": 0
+        "sampleEvents": 1
       }
     },
     {
@@ -2459,7 +2481,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://elperroclub.es/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2487,7 +2509,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.esmadrid.com/noche/sala-uni-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2520,7 +2542,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madcoolfestival.es/faqs",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2568,7 +2590,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2607,7 +2629,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://laissezfairemadrid.com/houdinni-madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2648,7 +2670,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.salaclamores.com/dance-club",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2687,7 +2709,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/kube/events/JN5U",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2727,7 +2749,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://discotecas-espana.es/discotecas/madrid/guss-club/agenda-diciembre-2026",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2769,7 +2791,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.nomadetemple.com/dining-madrid/speakeasy-bar-%26-nightclub",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2809,7 +2831,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/events/2593481",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2845,7 +2867,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://xceed.me/es/madrid/event/ghetto-winter-gala/248795",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2892,7 +2914,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.tomaticket.es/it-nl/entradas-danze-afrika-club-en-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2934,8 +2956,8 @@
         ],
         "primary": null,
         "status": "legacy_label",
-        "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "confidence": null,
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.bars10.com/ES/Unknown/895153817227247/Maloka-Bar-Brasileiro",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -2968,7 +2990,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.madticket.es/pagode",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3004,7 +3026,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.tomaticket.es/es-es/entradas-bus-para-trf-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3031,7 +3053,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.esmadrid.com/noche/tempo-audiophile-club",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3060,8 +3082,8 @@
         ],
         "primary": null,
         "status": "legacy_label",
-        "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "confidence": null,
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.esmadrid.com/noche/toy-room-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3091,7 +3113,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://forajidobar.com/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3120,7 +3142,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/discotecas-madrid/events/79HI",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3161,7 +3183,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/allmadridnightlife/events/inauguracion-luxury-05-12-2026-L745",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3199,7 +3221,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://metropolismadrid.es/club-metropolis/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3225,7 +3247,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://vegamembers.club/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3251,7 +3273,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.muyummy.es/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3277,7 +3299,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.esmadrid.com/noche/mistica-edition",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3303,7 +3325,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ohmyclub.es/web/inicio/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3329,7 +3351,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/discotecas-madrid/events/UXNR",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3355,7 +3377,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://luma.com/hwmt1xap",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -3384,7 +3406,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://xceed.me/es/madrid/event/la-formula-del-ruido-con-nina-ggg-lesbiannette-y-distort/254296",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3421,7 +3443,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://lachulafestival.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3455,7 +3477,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madridsalvaje.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3516,7 +3538,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/events/2585685",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3549,7 +3571,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.meetup.com/es-es/living-eventos-sociales/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3582,7 +3604,7 @@
         "declaredIds": [],
         "sampleEvents": 2,
         "status": "pending",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": null,
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27"
@@ -3608,7 +3630,7 @@
         "declaredIds": [],
         "sampleEvents": 2,
         "status": "pending",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": null,
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27"
@@ -3651,7 +3673,7 @@
         "declaredIds": [],
         "sampleEvents": 2,
         "status": "observed_programming",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": "medium",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27"
@@ -3677,7 +3699,7 @@
         "declaredIds": [],
         "sampleEvents": 1,
         "status": "pending",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": null,
         "source": "https://ra.co/events/es/madrid?startDate=2026-11-13",
         "reviewedAt": "2026-11-27"
@@ -3710,7 +3732,7 @@
         "declaredIds": [],
         "sampleEvents": 1,
         "status": "observed_programming",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": "medium",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27"
@@ -3736,7 +3758,7 @@
         "declaredIds": [],
         "sampleEvents": 2,
         "status": "pending",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": null,
         "source": "https://partyppl.eu/es/locatie/high-club-room",
         "reviewedAt": "2026-11-27"
@@ -3769,14 +3791,1611 @@
         "declaredIds": [],
         "sampleEvents": 1,
         "status": "observed_programming",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "confidence": "medium",
         "source": "https://asummerstory.com/",
+        "reviewedAt": "2026-11-27"
+      }
+    },
+    {
+      "id": "ballesta",
+      "name": "Ballesta Club",
+      "zone": "Madrid",
+      "address": "Dirección histórica pendiente de contraste",
+      "category": "Club histórico",
+      "web": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "activeStatus": "Identificado en archivo de 2023; actividad actual no comprobada",
+      "lat": null,
+      "lon": null,
+      "locationAccuracy": "pendiente",
+      "reviewedAt": "2026-11-27",
+      "music": {
+        "ids": [],
+        "primary": null,
+        "observed": [],
+        "declaredIds": [],
+        "sampleEvents": 1,
+        "status": "pending",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
+        "confidence": null,
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "reviewedAt": "2026-11-27"
+      }
+    },
+    {
+      "id": "secta",
+      "name": "Secta Club",
+      "zone": "Madrid",
+      "address": "Dirección histórica pendiente de contraste",
+      "category": "Club histórico",
+      "web": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "activeStatus": "Identificado en archivo de 2023; actividad actual no comprobada",
+      "lat": null,
+      "lon": null,
+      "locationAccuracy": "pendiente",
+      "reviewedAt": "2026-11-27",
+      "music": {
+        "ids": [],
+        "primary": null,
+        "observed": [],
+        "declaredIds": [],
+        "sampleEvents": 1,
+        "status": "pending",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
+        "confidence": null,
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
         "reviewedAt": "2026-11-27"
       }
     }
   ],
   "events": [
+    {
+      "id": "hist-graph-2022-04-08-lab-berenatta-catz-n-dogz",
+      "date": "2022-04-08",
+      "venue": "lab",
+      "title": "BeRenatta · Catz 'n Dogz",
+      "artists": [
+        "Catz 'n Dogz",
+        "Alex Warp"
+      ],
+      "genre": "House / Tech House",
+      "genreOriginal": "House / Tech House",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/cronicas/berenatta-catz-n-dogz/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/berenatta-catz-n-dogz/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [
+          "house",
+          "tech-house"
+        ],
+        "primary": "house",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/cronicas/berenatta-catz-n-dogz/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "catz-n-dogz",
+        "alex-warp"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-04-15-lab-berenatta-hector",
+      "date": "2022-04-15",
+      "venue": "lab",
+      "title": "BeRenatta · Hector",
+      "artists": [
+        "Hector"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/berenatta-abril-2022/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/berenatta-abril-2022/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://wololosound.com/eventos/berenatta-abril-2022/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "hector"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-04-22-lab-berenatta-with-dubfire",
+      "date": "2022-04-22",
+      "venue": "lab",
+      "title": "BeRenatta with Dubfire",
+      "artists": [
+        "Dubfire"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/1519588?returnUrl=%2Fevents%2Fes%2Fmadrid%3FstartDate%3D2022-04-22",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/1519588?returnUrl=%2Fevents%2Fes%2Fmadrid%3FstartDate%3D2022-04-22",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/1519588?returnUrl=%2Fevents%2Fes%2Fmadrid%3FstartDate%3D2022-04-22",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "dubfire"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-07-15-lab-berenatta-crew",
+      "date": "2022-07-15",
+      "venue": "lab",
+      "title": "BeRenatta crew",
+      "artists": [
+        "Herrera",
+        "Héctor Briceño",
+        "Germán Agudo",
+        "Nélson Fernández",
+        "Vitrie Vitoli",
+        "Chris Figueroa"
+      ],
+      "genre": "House / Tech House / Techno",
+      "genreOriginal": "House / Tech House / Techno",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "house",
+          "tech-house",
+          "techno"
+        ],
+        "primary": "house",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "herrera",
+        "hector-briceno",
+        "german-agudo",
+        "nelson-fernandez",
+        "vitrie-vitoli",
+        "chris-figueroa"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-10-14-lab-berenatta-joris-voorn",
+      "date": "2022-10-14",
+      "venue": "lab",
+      "title": "BeRenatta · Joris Voorn",
+      "artists": [
+        "Joris Voorn"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/cronicas/berenatta-joris-voorn/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/berenatta-joris-voorn/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://wololosound.com/cronicas/berenatta-joris-voorn/",
+        "reviewedAt": "2026-11-27"
+      },
+      "historicalDemand": {
+        "type": "sold_out_reported",
+        "source": "https://wololosound.com/cronicas/berenatta-joris-voorn/",
+        "observedAt": "2022-10-14",
+        "note": "Señal publicada, sin cifra de asistencia ni ventas."
+      },
+      "artistIds": [
+        "joris-voorn"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-10-21-lab-berenatta-nicole-moudaber",
+      "date": "2022-10-21",
+      "venue": "lab",
+      "title": "BeRenatta · Nicole Moudaber",
+      "artists": [
+        "Nicole Moudaber"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://feverup.com/m/119173",
+      "additionalSources": [
+        "https://wololosound.com/cronicas/berenatta-joris-voorn/"
+      ],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://feverup.com/m/119173",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://feverup.com/m/119173",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "nicole-moudaber"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-12-02-lab-berenatta-alan-fitzpatrick",
+      "date": "2022-12-02",
+      "venue": "lab",
+      "title": "BeRenatta · Alan Fitzpatrick",
+      "artists": [
+        "Alan Fitzpatrick",
+        "Barbara Lago",
+        "Mainterm"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "alan-fitzpatrick",
+        "barbara-lago",
+        "mainterm"
+      ]
+    },
+    {
+      "id": "hist-graph-2022-12-09-lab-berenatta-alisha-wheats",
+      "date": "2022-12-09",
+      "venue": "lab",
+      "title": "BeRenatta · Alisha & Wheats",
+      "artists": [
+        "Alisha",
+        "Wheats"
+      ],
+      "genre": "Tech House",
+      "genreOriginal": "Tech House",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "tech-house"
+        ],
+        "primary": "tech-house",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "alisha",
+        "wheats"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-02-03-lab-berenatta-hot-since-82",
+      "date": "2023-02-03",
+      "venue": "lab",
+      "title": "BeRenatta · Hot Since 82",
+      "artists": [
+        "Hot Since 82",
+        "Mike Gannu",
+        "THIEF"
+      ],
+      "genre": "House",
+      "genreOriginal": "House",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [
+          "house"
+        ],
+        "primary": "house",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+        "reviewedAt": "2026-11-27"
+      },
+      "historicalDemand": {
+        "type": "near_sellout_reported",
+        "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+        "observedAt": "2023-02-03",
+        "note": "Señal publicada, sin cifra de asistencia ni ventas."
+      },
+      "artistIds": [
+        "hot-since-82",
+        "mike-gannu",
+        "thief"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-02-10-lab-berenatta-space-92",
+      "date": "2023-02-10",
+      "venue": "lab",
+      "title": "BeRenatta · Space 92",
+      "artists": [
+        "Space 92"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/cronicas/space-92-berenatta/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/space-92-berenatta/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://wololosound.com/cronicas/space-92-berenatta/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "space-92"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-04-21-elsol-asi-me-gusta-a-mi-homenaje-a-la-ruta-del-bakalao",
+      "date": "2023-04-21",
+      "venue": "elsol",
+      "title": "Así me gusta a mí · Homenaje a la Ruta del Bakalao",
+      "artists": [
+        "Fer Xplosion"
+      ],
+      "genre": "Remember",
+      "genreOriginal": "Remember",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": null,
+      "organizer": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "additionalSources": [],
+      "ticket": null,
+      "price": 0,
+      "priceType": "Precio histórico publicado",
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "remember"
+        ],
+        "primary": "remember",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "fer-xplosion"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-04-21-lab-berenatta-with-matroda",
+      "date": "2023-04-21",
+      "venue": "lab",
+      "title": "BeRenatta with Matroda",
+      "artists": [
+        "Matroda",
+        "Tief"
+      ],
+      "genre": "Tech House / Bass House",
+      "genreOriginal": "Tech House / Bass House",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "additionalSources": [
+        "https://wololosound.com/eventos/be-renatta-mayo/",
+        "https://feverup.com/m/126861",
+        "https://www.youtube.com/watch?v=E8YW0nkWMs4"
+      ],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/eventos/be-renatta-mayo/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [
+          "tech-house",
+          "bass-house"
+        ],
+        "primary": "tech-house",
+        "status": "artist_inference",
+        "confidence": "medium",
+        "basis": "Perfil del artista Matroda documentado; repertorio de la noche no confirmado.",
+        "source": "https://edm.com/music-releases/matroda-wasting-time/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "matroda",
+        "tief"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-04-21-ballesta-club-del-fomo",
+      "date": "2023-04-21",
+      "venue": "ballesta",
+      "title": "Club del FOMO",
+      "artists": [
+        "DHERMIDA"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": null,
+      "organizer": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "dhermida"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-04-21-magno-nicolas-rada-joan-retamero-by-lescat-producciones-melodica",
+      "date": "2023-04-21",
+      "venue": "magno",
+      "title": "Nicolas Rada & Joan Retamero by Lescat Producciones & Melódica",
+      "artists": [
+        "Nicolas Rada",
+        "Joan Retamero",
+        "Demattei",
+        "Javi Garza"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "Lescat Producciones / Melódica",
+      "organizer": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "nicolas-rada",
+        "joan-retamero",
+        "demattei",
+        "javi-garza"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-04-21-cadavra-sigh-invites-gabbs-thebasement",
+      "date": "2023-04-21",
+      "venue": "cadavra",
+      "title": "Sigh invites Gabbs & theBasement",
+      "artists": [
+        "Gabbs",
+        "Goalmaker",
+        "Boranimals",
+        "Moulin",
+        "Babu",
+        "Cesc (ES)",
+        "Alamo"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "Sigh / theBasement",
+      "seriesId": "sigh",
+      "organizer": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "gabbs",
+        "goalmaker",
+        "boranimals",
+        "moulin",
+        "babu",
+        "cesc-es",
+        "alamo"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-04-21-secta-under-the-steel",
+      "date": "2023-04-21",
+      "venue": "secta",
+      "title": "Under the Steel",
+      "artists": [
+        "KITAE",
+        "KLOE",
+        "PaulPerView"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": null,
+      "organizer": null,
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "kitae",
+        "kloe",
+        "paulperview"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-05-12-lab-berenatta-x-selva",
+      "date": "2023-05-12",
+      "venue": "lab",
+      "title": "BeRenatta x Selva",
+      "artists": [],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/be-renatta-mayo/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/be-renatta-mayo/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://wololosound.com/eventos/be-renatta-mayo/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": []
+    },
+    {
+      "id": "hist-graph-2023-06-30-lab-berenatta-with-eli-brown",
+      "date": "2023-06-30",
+      "venue": "lab",
+      "title": "BeRenatta with Eli Brown",
+      "artists": [
+        "Eli Brown"
+      ],
+      "genre": "Techno",
+      "genreOriginal": "Techno",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/1690688",
+      "additionalSources": [
+        "https://wololosound.com/cronicas/eli-brown-berenatta/"
+      ],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/eli-brown-berenatta/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [
+          "techno"
+        ],
+        "primary": "techno",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://ra.co/events/1690688",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "eli-brown"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-10-06-lab-berenatta-joris-voorn",
+      "date": "2023-10-06",
+      "venue": "lab",
+      "title": "BeRenatta · Joris Voorn",
+      "artists": [
+        "Joris Voorn",
+        "Mainterm"
+      ],
+      "genre": "Techno",
+      "genreOriginal": "Techno",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/cronicas/joris-voorn-berenatta-2023/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/joris-voorn-berenatta-2023/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [
+          "techno"
+        ],
+        "primary": "techno",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/cronicas/joris-voorn-berenatta-2023/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "joris-voorn",
+        "mainterm"
+      ]
+    },
+    {
+      "id": "hist-graph-2023-10-20-lab-berenatta-with-dubfire",
+      "date": "2023-10-20",
+      "venue": "lab",
+      "title": "BeRenatta with Dubfire",
+      "artists": [
+        "Dubfire"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/1767330",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/1767330",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/1767330",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "dubfire"
+      ]
+    },
+    {
+      "id": "hist-graph-2024-04-19-lab-berenatta-with-lilly-palmer",
+      "date": "2024-04-19",
+      "venue": "lab",
+      "title": "BeRenatta with Lilly Palmer",
+      "artists": [
+        "Lilly Palmer"
+      ],
+      "genre": "Techno",
+      "genreOriginal": "Techno",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://es.ra.co/events/1865960",
+      "additionalSources": [],
+      "ticket": null,
+      "price": 20,
+      "priceType": "Precio histórico publicado",
+      "time": "23:59",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://es.ra.co/events/1865960",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "techno"
+        ],
+        "primary": "techno",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://es.ra.co/events/1865960",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "lilly-palmer"
+      ]
+    },
+    {
+      "id": "hist-graph-2024-04-26-lab-berenatta-with-brnt-crew",
+      "date": "2024-04-26",
+      "venue": "lab",
+      "title": "BeRenatta with BRNT CREW",
+      "artists": [],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/1881859",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/1881859",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/1881859",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": []
+    },
+    {
+      "id": "hist-graph-2024-05-17-lab-berenatta-with-mahmut-orhan",
+      "date": "2024-05-17",
+      "venue": "lab",
+      "title": "BeRenatta with Mahmut Orhan",
+      "artists": [
+        "Mahmut Orhan"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://es.ra.co/events/1828947",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://es.ra.co/events/1828947",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://es.ra.co/events/1828947",
+        "reviewedAt": "2026-11-27"
+      },
+      "historicalDemand": {
+        "type": "sold_out_reported",
+        "source": "https://es.ra.co/events/1828947",
+        "observedAt": "2024-05-17",
+        "note": "Señal publicada, sin cifra de asistencia ni ventas."
+      },
+      "artistIds": [
+        "mahmut-orhan"
+      ]
+    },
+    {
+      "id": "hist-graph-2024-06-14-lab-berenatta-with-robbie-doherty",
+      "date": "2024-06-14",
+      "venue": "lab",
+      "title": "BeRenatta with Robbie Doherty",
+      "artists": [
+        "Robbie Doherty",
+        "Leo Meizoso",
+        "Herrera",
+        "Th3rmind",
+        "Yannik"
+      ],
+      "genre": "Tech House",
+      "genreOriginal": "Tech House",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/1909926",
+      "additionalSources": [],
+      "ticket": null,
+      "price": 20,
+      "priceType": "Precio histórico publicado",
+      "time": "23:59",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/1909926",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "tech-house"
+        ],
+        "primary": "tech-house",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://ra.co/events/1909926",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "robbie-doherty",
+        "leo-meizoso",
+        "herrera",
+        "th3rmind",
+        "yannik"
+      ]
+    },
+    {
+      "id": "hist-graph-2025-03-21-lab-berenatta-edu-imbernon",
+      "date": "2025-03-21",
+      "venue": "lab",
+      "title": "BeRenatta · Edu Imbernon",
+      "artists": [
+        "Edu Imbernon",
+        "Saint",
+        "Mike Gannu",
+        "Iokhonda",
+        "Vico Deep"
+      ],
+      "genre": "Electrónica",
+      "genreOriginal": "Electrónica",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/berenatta-2025/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "electronic"
+        ],
+        "primary": "electronic",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/eventos/berenatta-2025/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "edu-imbernon",
+        "saint",
+        "mike-gannu",
+        "iokhonda",
+        "vico-deep"
+      ]
+    },
+    {
+      "id": "hist-graph-2025-04-04-lab-brnt-with-kevin-de-vries",
+      "date": "2025-04-04",
+      "venue": "lab",
+      "title": "BRNT with Kevin de Vries",
+      "artists": [
+        "Kevin de Vries"
+      ],
+      "genre": "Melodic Techno",
+      "genreOriginal": "Melodic Techno",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/2105615",
+      "additionalSources": [
+        "https://wololosound.com/eventos/berenatta-2025/"
+      ],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/2105615",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [
+          "melodic-techno"
+        ],
+        "primary": "melodic-techno",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://ra.co/events/2105615",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "kevin-de-vries"
+      ]
+    },
+    {
+      "id": "hist-graph-2025-05-16-lab-berenatta-nto",
+      "date": "2025-05-16",
+      "venue": "lab",
+      "title": "BeRenatta · NTO",
+      "artists": [
+        "NTO"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://wololosound.com/eventos/berenatta-2025/",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://wololosound.com/eventos/berenatta-2025/",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "nto"
+      ]
+    },
+    {
+      "id": "hist-graph-2025-09-26-lab-brnt-iv-anniversary-with-deep-dish",
+      "date": "2025-09-26",
+      "venue": "lab",
+      "title": "BRNT IV Anniversary with Deep Dish",
+      "artists": [
+        "Deep Dish",
+        "Dubfire",
+        "Sharam"
+      ],
+      "genre": "Por confirmar",
+      "genreOriginal": "Por confirmar",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://ra.co/events/2136485",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; anuncio histórico, celebración no contrastada.",
+      "history": {
+        "status": "announced",
+        "source": "https://ra.co/events/2136485",
+        "checkedAt": "2026-11-27",
+        "note": "Fecha de anuncio localizada."
+      },
+      "music": {
+        "ids": [],
+        "primary": null,
+        "status": "pending",
+        "confidence": null,
+        "basis": "Pendiente de investigar artistas y cartel.",
+        "source": "https://ra.co/events/2136485",
+        "reviewedAt": "2026-11-27"
+      },
+      "artistIds": [
+        "deep-dish",
+        "dubfire",
+        "sharam"
+      ]
+    },
+    {
+      "id": "hist-graph-2026-03-20-lab-berenatta-kevin-de-vries",
+      "date": "2026-03-20",
+      "venue": "lab",
+      "title": "BeRenatta · Kevin de Vries",
+      "artists": [
+        "Kevin de Vries",
+        "James de Torres",
+        "CÔE"
+      ],
+      "genre": "Melodic Techno",
+      "genreOriginal": "Melodic Techno",
+      "kind": "Sesión",
+      "status": "anunciado",
+      "promoter": "BeRenatta",
+      "seriesId": "berenatta",
+      "organizer": "LAB theClub",
+      "source": "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
+      "additionalSources": [],
+      "ticket": null,
+      "price": null,
+      "priceType": null,
+      "time": "Por confirmar",
+      "poster": null,
+      "tiers": [],
+      "priceHistory": [],
+      "hype": null,
+      "attendance": null,
+      "sold": null,
+      "remaining": null,
+      "verifiedAt": "2026-11-27",
+      "verification": "Fuente histórica localizada; crónica posterior documenta celebración.",
+      "history": {
+        "status": "held",
+        "source": "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
+        "checkedAt": "2026-11-27",
+        "note": "Crónica o referencia posterior documenta la actuación."
+      },
+      "music": {
+        "ids": [
+          "melodic-techno"
+        ],
+        "primary": "melodic-techno",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Descripción de programación o crónica; clasificación específica provisional.",
+        "source": "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
+        "reviewedAt": "2026-11-27"
+      },
+      "historicalDemand": {
+        "type": "near_sellout_reported",
+        "source": "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
+        "observedAt": "2026-03-20",
+        "note": "Señal publicada, sin cifra de asistencia ni ventas."
+      },
+      "artistIds": [
+        "kevin-de-vries",
+        "james-de-torres",
+        "coe"
+      ]
+    },
     {
       "id": "hist-2026-05-01-torrejon-elrow-town-madrid-2026",
       "date": "2026-05-01",
@@ -16324,7 +17943,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://elrow.com/es/events/upcoming?direct=true",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16354,7 +17973,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.2mgroup.es/eventos",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16383,7 +18002,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.2mgroup.es/formatos/blackworks",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16410,7 +18029,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.lasterclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16435,7 +18054,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/promoters/77821",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -16455,7 +18074,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://mypleasure.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16483,7 +18102,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://es.ra.co/promoters/140312",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16513,7 +18132,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madcoolfestival.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16550,7 +18169,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://asummerstory.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16573,7 +18192,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://fulltechno.club/fiestas/brunch-electronik/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -16591,7 +18210,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://linktr.ee/Specialeventsmadrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -16611,7 +18230,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://app.whan.es/event/cordura-x-todos-santos-2026-12-12",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16637,7 +18256,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://laissezfairemadrid.com/houdinni-madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16669,7 +18288,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://linktr.ee/baile.europa",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16702,7 +18321,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/bonded/events/EADS",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16735,7 +18354,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/kube/events/JN5U",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16769,7 +18388,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.madticket.es/pagode",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16798,7 +18417,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.tomaticket.es/es-es/entradas-bus-para-trf-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -16820,7 +18439,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://xceed.me/es/madrid/event/ghetto-winter-gala/248795",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16859,7 +18478,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madmadmad.es/eventos/14850",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16896,7 +18515,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://kehay.es/organizador/flat-hi-fi",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16925,7 +18544,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://kehay.es/event/muff-x-afrohispanica-noche-de-club-6b083ba84c74d6cd6aa72a69",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16952,7 +18571,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.nomadetemple.com/dining-madrid/speakeasy-bar-%26-nightclub",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -16978,7 +18597,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://clubseek.app/club/guss-club",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17005,7 +18624,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://discotecas-espana.es/discotecas/madrid/guss-club/agenda-diciembre-2026",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17025,7 +18644,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/events/2573709",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17050,7 +18669,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://es.ra.co/events/2559942",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17075,7 +18694,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madrid.hivernacle-popupclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17098,7 +18717,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madrid.hivernacle-popupclub.com/event/hivernacle-pop-up-club-madrid-unreleased-20-02/",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17116,7 +18735,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/events/2579128",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17136,7 +18755,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://ra.co/events/2585685",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17160,8 +18779,8 @@
         ],
         "primary": null,
         "status": "legacy_label",
-        "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "confidence": null,
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://site.fourvenues.com/es/bonded/events/P82S",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17182,8 +18801,8 @@
         ],
         "primary": null,
         "status": "legacy_label",
-        "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "confidence": null,
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.planomato.com/es/madrid/p/menuda-inauguracion-sala-but-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17203,7 +18822,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://linktr.ee/artmadrid",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17221,7 +18840,7 @@
         "primary": null,
         "status": "pending",
         "confidence": null,
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://luma.com/hwmt1xap",
         "reviewedAt": "2026-11-27",
         "observed": [],
@@ -17241,7 +18860,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://www.meetup.com/es-es/living-eventos-sociales/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17266,7 +18885,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://lachulafestival.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17292,7 +18911,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://madridsalvaje.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17322,7 +18941,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://xceed.me/ca/madrid/event/tra-con-angelinanyuli-groovemami-klaudia-sim-y-ch3lo/254295",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17351,7 +18970,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": "https://xceed.me/es/madrid/event/la-formula-del-ruido-con-nina-ggg-lesbiannette-y-distort/254296",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -17362,6 +18981,56 @@
         ],
         "declaredIds": [],
         "sampleEvents": 1
+      }
+    },
+    {
+      "name": "BeRenatta",
+      "category": "Marca de sesión / promotor; LAB figura como organizador en fichas RA",
+      "source": "https://www.labtheclub.com/lab-clubs/berenatta/",
+      "reviewedAt": "2026-11-27",
+      "music": {
+        "ids": [
+          "tech-house",
+          "techno",
+          "house",
+          "melodic-techno",
+          "bass-house",
+          "electronic"
+        ],
+        "primary": null,
+        "observed": [
+          {
+            "id": "tech-house",
+            "eventCount": 5
+          },
+          {
+            "id": "techno",
+            "eventCount": 4
+          },
+          {
+            "id": "house",
+            "eventCount": 3
+          },
+          {
+            "id": "melodic-techno",
+            "eventCount": 2
+          },
+          {
+            "id": "bass-house",
+            "eventCount": 1
+          },
+          {
+            "id": "electronic",
+            "eventCount": 1
+          }
+        ],
+        "declaredIds": [],
+        "sampleEvents": 24,
+        "status": "observed_programming",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
+        "confidence": "medium",
+        "source": "https://www.labtheclub.com/lab-clubs/berenatta/",
+        "reviewedAt": "2026-11-27"
       }
     }
   ],
@@ -17722,6 +19391,55 @@
       "type": "crónica posterior",
       "checkedAt": "2026-11-27",
       "access": "resultados públicos; apertura variable"
+    },
+    {
+      "name": "LAB BeRenatta",
+      "url": "https://www.labtheclub.com/lab-clubs/berenatta/",
+      "type": "sala oficial",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
+    },
+    {
+      "name": "2M Group archivo",
+      "url": "https://www.2mgroup.es/eventos/archivo",
+      "type": "archivo oficial de productor",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
+    },
+    {
+      "name": "2M Group LAB",
+      "url": "https://www.2mgroup.es/recintos/lab-theclub",
+      "type": "archivo por recinto",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
+    },
+    {
+      "name": "Wololo Sound BeRenatta",
+      "url": "https://wololosound.com/event-organizer/berenatta/",
+      "type": "archivo editorial",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
+    },
+    {
+      "name": "All Music Spain",
+      "url": "https://allmusicspain.com/tag/berenatta/",
+      "type": "hemeroteca musical",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
+    },
+    {
+      "name": "RA artista Matroda",
+      "url": "https://ra.co/dj/matroda/past-events",
+      "type": "archivo de artista",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
+    },
+    {
+      "name": "Matroda oficial",
+      "url": "https://matrodamusic.com/about/",
+      "type": "perfil artístico oficial",
+      "checkedAt": "2026-11-27",
+      "access": "resultado público indexado; apertura variable"
     }
   ],
   "radar": [
@@ -18051,7 +19769,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18093,7 +19811,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18130,7 +19848,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18167,7 +19885,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18205,7 +19923,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18258,7 +19976,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18297,7 +20015,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18331,7 +20049,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18384,7 +20102,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18425,7 +20143,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18464,7 +20182,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18499,7 +20217,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18531,7 +20249,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18562,7 +20280,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18600,7 +20318,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18632,7 +20350,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18655,10 +20373,13 @@
       "venueIds": [
         "cadavra"
       ],
-      "promoters": [],
+      "promoters": [
+        "Sigh / theBasement"
+      ],
       "eventIds": [
         "scan-20261127-7",
-        "ev-74"
+        "ev-74",
+        "hist-graph-2023-04-21-cadavra-sigh-invites-gabbs-thebasement"
       ],
       "music": {
         "ids": [
@@ -18670,7 +20391,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18692,7 +20413,7 @@
           }
         ],
         "declaredIds": [],
-        "sampleEvents": 2
+        "sampleEvents": 3
       }
     },
     {
@@ -18716,7 +20437,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18750,7 +20471,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18786,7 +20507,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18817,7 +20538,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18851,7 +20572,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18892,7 +20613,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18937,7 +20658,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -18975,7 +20696,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -19021,7 +20742,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil agregado de anuncios pasados y futuros, no garantía de estilo por fecha.",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -19041,10 +20762,101 @@
         "declaredIds": [],
         "sampleEvents": 1
       }
+    },
+    {
+      "id": "berenatta",
+      "name": "BeRenatta / BRNT",
+      "aliases": [
+        "BeRenatta",
+        "Be Renatta",
+        "BRNT"
+      ],
+      "source": "https://www.labtheclub.com/lab-clubs/berenatta/",
+      "additionalSources": [
+        "https://wololosound.com/event-organizer/berenatta/",
+        "https://allmusicspain.com/tag/berenatta/",
+        "https://www.bpm-stream.com/escena/marcas/berenatta/"
+      ],
+      "eventIds": [
+        "hist-graph-2023-04-21-lab-berenatta-with-matroda",
+        "hist-graph-2022-04-08-lab-berenatta-catz-n-dogz",
+        "hist-graph-2022-04-15-lab-berenatta-hector",
+        "hist-graph-2022-04-22-lab-berenatta-with-dubfire",
+        "hist-graph-2022-07-15-lab-berenatta-crew",
+        "hist-graph-2022-10-14-lab-berenatta-joris-voorn",
+        "hist-graph-2022-10-21-lab-berenatta-nicole-moudaber",
+        "hist-graph-2022-12-02-lab-berenatta-alan-fitzpatrick",
+        "hist-graph-2022-12-09-lab-berenatta-alisha-wheats",
+        "hist-graph-2023-02-03-lab-berenatta-hot-since-82",
+        "hist-graph-2023-02-10-lab-berenatta-space-92",
+        "hist-graph-2023-05-12-lab-berenatta-x-selva",
+        "hist-graph-2023-06-30-lab-berenatta-with-eli-brown",
+        "hist-graph-2023-10-06-lab-berenatta-joris-voorn",
+        "hist-graph-2023-10-20-lab-berenatta-with-dubfire",
+        "hist-graph-2024-04-19-lab-berenatta-with-lilly-palmer",
+        "hist-graph-2024-04-26-lab-berenatta-with-brnt-crew",
+        "hist-graph-2024-05-17-lab-berenatta-with-mahmut-orhan",
+        "hist-graph-2024-06-14-lab-berenatta-with-robbie-doherty",
+        "hist-graph-2025-03-21-lab-berenatta-edu-imbernon",
+        "hist-graph-2025-04-04-lab-brnt-with-kevin-de-vries",
+        "hist-graph-2025-05-16-lab-berenatta-nto",
+        "hist-graph-2025-09-26-lab-brnt-iv-anniversary-with-deep-dish",
+        "hist-graph-2026-03-20-lab-berenatta-kevin-de-vries"
+      ],
+      "venueIds": [
+        "lab"
+      ],
+      "promoters": [
+        "BeRenatta"
+      ],
+      "music": {
+        "ids": [
+          "tech-house",
+          "techno",
+          "house",
+          "melodic-techno",
+          "bass-house",
+          "electronic"
+        ],
+        "primary": null,
+        "observed": [
+          {
+            "id": "tech-house",
+            "eventCount": 5
+          },
+          {
+            "id": "techno",
+            "eventCount": 4
+          },
+          {
+            "id": "house",
+            "eventCount": 3
+          },
+          {
+            "id": "melodic-techno",
+            "eventCount": 2
+          },
+          {
+            "id": "bass-house",
+            "eventCount": 1
+          },
+          {
+            "id": "electronic",
+            "eventCount": 1
+          }
+        ],
+        "declaredIds": [],
+        "sampleEvents": 24,
+        "status": "observed_programming",
+        "basis": "Perfil agregado de programación; no garantiza estilo por fecha.",
+        "confidence": "medium",
+        "source": "https://www.labtheclub.com/lab-clubs/berenatta/",
+        "reviewedAt": "2026-11-27"
+      }
     }
   ],
   "musicTaxonomy": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "updatedAt": "2026-11-27",
     "nodes": [
       {
@@ -19611,27 +21423,57 @@
         "id": "eclectic",
         "label": "Ecléctica",
         "parent": "global"
+      },
+      {
+        "id": "bass-house",
+        "label": "Bass House",
+        "parent": "house"
       }
     ],
     "policy": "Géneros jerárquicos multietiqueta. Formato, acceso, identidad del local y género son dimensiones diferentes. Los perfiles de entidades agregan programación observada y no se trasladan automáticamente a un evento. Etiquetas históricas no verificadas nuevamente; las inferencias llevan evidencia, confianza y estado."
   },
   "musicAudit": {
     "reviewedAt": "2026-11-27",
-    "events": 323,
-    "classified": 258,
-    "pending": 65,
-    "venuesClassified": 67,
-    "promotersClassified": 31,
-    "series": 26,
-    "nodes": 113
+    "events": 352,
+    "classified": 271,
+    "pending": 81,
+    "venuesClassified": 68,
+    "promotersClassified": 32,
+    "series": 27,
+    "nodes": 114
   },
   "historyCoverage": {
-    "earliest": "2026-05-01",
+    "earliest": "2022-04-08",
     "latest": "2026-11-26",
     "checkedAt": "2026-11-27",
     "status": "partial",
     "policy": "Archivo incremental sin fecha límite. No equivale a censo completo. Anuncios pasados, archivos de plataforma y celebración documentada se distinguen.",
     "sources": [
+      "https://wololosound.com/cronicas/berenatta-catz-n-dogz/",
+      "https://wololosound.com/eventos/berenatta-abril-2022/",
+      "https://ra.co/events/1519588?returnUrl=%2Fevents%2Fes%2Fmadrid%3FstartDate%3D2022-04-22",
+      "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "https://wololosound.com/cronicas/berenatta-joris-voorn/",
+      "https://feverup.com/m/119173",
+      "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+      "https://wololosound.com/cronicas/space-92-berenatta/",
+      "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "https://wololosound.com/eventos/be-renatta-mayo/",
+      "https://feverup.com/m/126861",
+      "https://www.youtube.com/watch?v=E8YW0nkWMs4",
+      "https://ra.co/events/1690688",
+      "https://wololosound.com/cronicas/eli-brown-berenatta/",
+      "https://wololosound.com/cronicas/joris-voorn-berenatta-2023/",
+      "https://ra.co/events/1767330",
+      "https://es.ra.co/events/1865960",
+      "https://ra.co/events/1881859",
+      "https://es.ra.co/events/1828947",
+      "https://ra.co/events/1909926",
+      "https://wololosound.com/eventos/berenatta-2025/",
+      "https://ra.co/events/2105615",
+      "https://ra.co/events/2136485",
+      "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
       "https://www.esmadrid.com/agenda/elrow-town-madrid-recinto-ferial-torrejon-ardoz",
       "https://www.elpatiodechuecahostel.com/radio-patio-blog/festivales-en-madrid-verano-2026/",
       "https://asummerstory.com/",
@@ -19669,6 +21511,23 @@
       "https://clublifeco.com/madrid/free-entry-tonight"
     ],
     "monthCounts": {
+      "2022-04": 3,
+      "2022-07": 1,
+      "2022-10": 2,
+      "2022-12": 2,
+      "2023-02": 2,
+      "2023-04": 6,
+      "2023-05": 1,
+      "2023-06": 1,
+      "2023-10": 2,
+      "2024-04": 2,
+      "2024-05": 1,
+      "2024-06": 1,
+      "2025-03": 1,
+      "2025-04": 1,
+      "2025-05": 1,
+      "2025-09": 1,
+      "2026-03": 1,
       "2026-05": 1,
       "2026-06": 2,
       "2026-07": 1,
@@ -19676,5 +21535,698 @@
       "2026-10": 8,
       "2026-11": 65
     }
-  }
+  },
+  "artists": [
+    {
+      "id": "matroda",
+      "name": "Matroda",
+      "source": "https://matrodamusic.com/about/",
+      "music": {
+        "ids": [
+          "tech-house",
+          "bass-house"
+        ],
+        "status": "event_secondary",
+        "source": "https://edm.com/music-releases/matroda-wasting-time/"
+      },
+      "labelIds": [
+        "terminal-underground"
+      ],
+      "additionalSources": [
+        "https://ra.co/dj/matroda/past-events",
+        "https://www.songkick.com/es/artists/8851384-matroda"
+      ]
+    },
+    {
+      "id": "tief",
+      "name": "Tief",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "catz-n-dogz",
+      "name": "Catz 'n Dogz",
+      "source": "https://wololosound.com/cronicas/berenatta-catz-n-dogz/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "alex-warp",
+      "name": "Alex Warp",
+      "source": "https://wololosound.com/cronicas/berenatta-catz-n-dogz/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "hector",
+      "name": "Hector",
+      "source": "https://wololosound.com/eventos/berenatta-abril-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "dubfire",
+      "name": "Dubfire",
+      "source": "https://ra.co/events/1519588?returnUrl=%2Fevents%2Fes%2Fmadrid%3FstartDate%3D2022-04-22",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "herrera",
+      "name": "Herrera",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "hector-briceno",
+      "name": "Héctor Briceño",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "german-agudo",
+      "name": "Germán Agudo",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "nelson-fernandez",
+      "name": "Nélson Fernández",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "vitrie-vitoli",
+      "name": "Vitrie Vitoli",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "chris-figueroa",
+      "name": "Chris Figueroa",
+      "source": "https://wololosound.com/eventos/berenatta-julio-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "joris-voorn",
+      "name": "Joris Voorn",
+      "source": "https://wololosound.com/cronicas/berenatta-joris-voorn/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "nicole-moudaber",
+      "name": "Nicole Moudaber",
+      "source": "https://feverup.com/m/119173",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "alan-fitzpatrick",
+      "name": "Alan Fitzpatrick",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "barbara-lago",
+      "name": "Barbara Lago",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "mainterm",
+      "name": "Mainterm",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "alisha",
+      "name": "Alisha",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "wheats",
+      "name": "Wheats",
+      "source": "https://wololosound.com/eventos/berenatta-diciembre-2022/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "hot-since-82",
+      "name": "Hot Since 82",
+      "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "mike-gannu",
+      "name": "Mike Gannu",
+      "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "thief",
+      "name": "THIEF",
+      "source": "https://wololosound.com/cronicas/cronicas-hotsince82-berenatta-2023/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "space-92",
+      "name": "Space 92",
+      "source": "https://wololosound.com/cronicas/space-92-berenatta/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "eli-brown",
+      "name": "Eli Brown",
+      "source": "https://ra.co/events/1690688",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "lilly-palmer",
+      "name": "Lilly Palmer",
+      "source": "https://es.ra.co/events/1865960",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "mahmut-orhan",
+      "name": "Mahmut Orhan",
+      "source": "https://es.ra.co/events/1828947",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "robbie-doherty",
+      "name": "Robbie Doherty",
+      "source": "https://ra.co/events/1909926",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "leo-meizoso",
+      "name": "Leo Meizoso",
+      "source": "https://ra.co/events/1909926",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "th3rmind",
+      "name": "Th3rmind",
+      "source": "https://ra.co/events/1909926",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "yannik",
+      "name": "Yannik",
+      "source": "https://ra.co/events/1909926",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "edu-imbernon",
+      "name": "Edu Imbernon",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "saint",
+      "name": "Saint",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "iokhonda",
+      "name": "Iokhonda",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "vico-deep",
+      "name": "Vico Deep",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "kevin-de-vries",
+      "name": "Kevin de Vries",
+      "source": "https://ra.co/events/2105615",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "nto",
+      "name": "NTO",
+      "source": "https://wololosound.com/eventos/berenatta-2025/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "deep-dish",
+      "name": "Deep Dish",
+      "source": "https://ra.co/events/2136485",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "sharam",
+      "name": "Sharam",
+      "source": "https://ra.co/events/2136485",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "james-de-torres",
+      "name": "James de Torres",
+      "source": "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "coe",
+      "name": "CÔE",
+      "source": "https://wololosound.com/cronicas/kevin-de-vries-berenatta-2026/",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "nicolas-rada",
+      "name": "Nicolas Rada",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "joan-retamero",
+      "name": "Joan Retamero",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "demattei",
+      "name": "Demattei",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "javi-garza",
+      "name": "Javi Garza",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "gabbs",
+      "name": "Gabbs",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "goalmaker",
+      "name": "Goalmaker",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "boranimals",
+      "name": "Boranimals",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "moulin",
+      "name": "Moulin",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "babu",
+      "name": "Babu",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "cesc-es",
+      "name": "Cesc (ES)",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "alamo",
+      "name": "Alamo",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "dhermida",
+      "name": "DHERMIDA",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "fer-xplosion",
+      "name": "Fer Xplosion",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "kitae",
+      "name": "KITAE",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "kloe",
+      "name": "KLOE",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    },
+    {
+      "id": "paulperview",
+      "name": "PaulPerView",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "music": {
+        "ids": [],
+        "status": "pending",
+        "source": null
+      }
+    }
+  ],
+  "labels": [
+    {
+      "id": "terminal-underground",
+      "name": "Terminal Underground",
+      "founderArtistIds": [
+        "matroda"
+      ],
+      "music": {
+        "ids": [
+          "tech-house",
+          "bass-house"
+        ],
+        "status": "event_secondary"
+      },
+      "source": "https://matrodamusic.com/about/",
+      "additionalSources": [
+        "https://grayarea.co/academy/11-house-heaters-from-matroda-s-terminal-underground"
+      ]
+    }
+  ],
+  "discoveryQueue": [
+    {
+      "id": "lab-2m",
+      "type": "venue",
+      "name": "LAB theClub",
+      "source": "https://www.2mgroup.es/recintos/lab-theclub",
+      "note": "189 producciones declaradas por 2M (incluye años futuros; no es inventario importado)",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "2m-archive",
+      "type": "promoter",
+      "name": "2M Group",
+      "source": "https://www.2mgroup.es/eventos/archivo",
+      "note": "Archivo por años, cruzar recintos y formatos",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "berenatta-archive",
+      "type": "series",
+      "name": "BeRenatta / BRNT",
+      "source": "https://wololosound.com/event-organizer/berenatta/",
+      "note": "Cruzar past events, crónicas, RA y LAB",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "berenatta-press",
+      "type": "series",
+      "name": "BeRenatta / BRNT",
+      "source": "https://allmusicspain.com/tag/berenatta/",
+      "note": "Programaciones mensuales 2022–2025",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "matroda-history",
+      "type": "artist",
+      "name": "Matroda",
+      "source": "https://ra.co/dj/matroda/past-events",
+      "note": "Revisar fechas Madrid y Comunidad; no importar giras fuera",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "tief-history",
+      "type": "artist",
+      "name": "Tief",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "note": "Localizar perfil correcto y otras actuaciones",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "terminal-underground",
+      "type": "label",
+      "name": "Terminal Underground",
+      "source": "https://matrodamusic.com/about/",
+      "note": "Descubrir artistas relacionados y buscar sus fechas Madrid, sin inferir actuaciones",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "date-2023-04-21",
+      "type": "date",
+      "name": "Madrid 21–23 abril 2023",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "note": "Completar las páginas de agenda y verificar fechas",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "space-lab",
+      "type": "series",
+      "name": "Space of Sound",
+      "source": "https://wololosound.com/eventos/space-of-sound-diciembre-2022/",
+      "note": "Expandir desde otras sesiones LAB",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "lescat",
+      "type": "promoter",
+      "name": "Lescat Producciones / Melódica",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "note": "Rastrear actuaciones en Club Magno y otros recintos",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    },
+    {
+      "id": "sigh",
+      "type": "series",
+      "name": "Sigh Club",
+      "source": "https://ra.co/events/es/madrid?startDate=2023-04-21",
+      "note": "Cruzar histórico Cadavra y salas",
+      "status": "pending",
+      "observedAt": "2026-11-27"
+    }
+  ]
 }

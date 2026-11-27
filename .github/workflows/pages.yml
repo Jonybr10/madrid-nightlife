@@ -65,6 +65,7 @@ jobs:
             mkdir -p _site/catalog/dice
             cp catalog/index.json catalog/world-events.json _site/catalog/
             cp catalog/dice/*.json _site/catalog/dice/
+            python3 scripts/build_artist_links.py --output _site/catalog/artist-links.json
           fi
           touch _site/.nojekyll
           printf 'User-agent: *\nDisallow: /\n' > _site/robots.txt

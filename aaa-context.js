@@ -96,7 +96,7 @@ function explain(e){
  if(e===tip||tip.contains(e)||e.matches("input[type=password]"))return null;
  const explicit=e.getAttribute("data-tooltip");
  const title=e.getAttribute("data-aaa-native-title")||e.getAttribute("title");
- const id=byId[e.id];
+ const id=e.id==="region"&&e.matches("button")?["Vista regional","Amplía el encuadre a la región configurada."]:byId[e.id];
  if(explicit)return {title:label(e)||"Contexto AAA",body:explicit};
  if(e.matches(".pin")&&title)return {title:label(e)||"Local",body:title+" · El número indica anuncios registrados, no aforo."};
  if(e.matches(".sig")&&title){const rule=classInfo.find(([s])=>e.matches(s));return {title:rule?.[1]||"Señal",body:title+" "+(rule?.[2]||""),value:ownText(e)};}

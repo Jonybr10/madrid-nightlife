@@ -13,40 +13,38 @@
       "activeStatus": "pendiente de revisión",
       "music": {
         "ids": [
-          "commercial",
           "urban",
-          "electro",
-          "hip-hop",
-          "pop-hits",
+          "commercial",
+          "house",
+          "tech-house",
           "reggaeton",
-          "techno",
-          "trap"
+          "pop-hits",
+          "hip-hop",
+          "trap",
+          "electro",
+          "techno"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://fitzclubmadrid.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "commercial",
-            "eventCount": 2
-          },
-          {
             "id": "urban",
-            "eventCount": 2
+            "eventCount": 3
           },
           {
-            "id": "electro",
+            "id": "commercial",
+            "eventCount": 3
+          },
+          {
+            "id": "house",
             "eventCount": 1
           },
           {
-            "id": "hip-hop",
-            "eventCount": 1
-          },
-          {
-            "id": "pop-hits",
+            "id": "tech-house",
             "eventCount": 1
           },
           {
@@ -54,11 +52,23 @@
             "eventCount": 1
           },
           {
-            "id": "techno",
+            "id": "pop-hits",
+            "eventCount": 1
+          },
+          {
+            "id": "hip-hop",
             "eventCount": 1
           },
           {
             "id": "trap",
+            "eventCount": 1
+          },
+          {
+            "id": "electro",
+            "eventCount": 1
+          },
+          {
+            "id": "techno",
             "eventCount": 1
           }
         ],
@@ -78,27 +88,32 @@
       "activeStatus": "pendiente de revisión",
       "music": {
         "ids": [
-          "commercial",
           "indie",
-          "urban"
+          "commercial",
+          "urban",
+          "pop-hits"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/rubicon",
         "reviewedAt": "2026-11-27",
         "observed": [
+          {
+            "id": "indie",
+            "eventCount": 3
+          },
           {
             "id": "commercial",
             "eventCount": 2
           },
           {
-            "id": "indie",
-            "eventCount": 2
+            "id": "urban",
+            "eventCount": 1
           },
           {
-            "id": "urban",
+            "id": "pop-hits",
             "eventCount": 1
           }
         ],
@@ -148,7 +163,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/es/organizer/goya-social-club",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -184,14 +199,14 @@
           "electronic",
           "house",
           "afro-house",
+          "organic-house",
           "deep-house",
-          "indie-dance",
-          "organic-house"
+          "indie-dance"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://lula.club/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -208,15 +223,15 @@
             "eventCount": 3
           },
           {
+            "id": "organic-house",
+            "eventCount": 1
+          },
+          {
             "id": "deep-house",
             "eventCount": 1
           },
           {
             "id": "indie-dance",
-            "eventCount": 1
-          },
-          {
-            "id": "organic-house",
             "eventCount": 1
           }
         ],
@@ -243,7 +258,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://bassmntclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -281,7 +296,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.mondodisko.es/eventos/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -312,7 +327,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -349,7 +364,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -386,24 +401,24 @@
       "activeStatus": "pendiente de revisión",
       "music": {
         "ids": [
-          "electronic",
           "remember",
+          "electronic",
           "house",
           "techno"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.labtheclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "electronic",
+            "id": "remember",
             "eventCount": 3
           },
           {
-            "id": "remember",
+            "id": "electronic",
             "eventCount": 3
           },
           {
@@ -441,7 +456,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/bonded",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -473,14 +488,36 @@
       "locationAccuracy": "pendiente",
       "activeStatus": "pendiente de revisión",
       "music": {
-        "ids": [],
+        "ids": [
+          "pop-hits",
+          "commercial",
+          "reggaeton",
+          "latin"
+        ],
         "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Descripción musical registrada; programación específica pendiente.",
+        "status": "observed_programming",
+        "confidence": "medium",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
-        "observed": [],
+        "observed": [
+          {
+            "id": "pop-hits",
+            "eventCount": 2
+          },
+          {
+            "id": "commercial",
+            "eventCount": 2
+          },
+          {
+            "id": "reggaeton",
+            "eventCount": 2
+          },
+          {
+            "id": "latin",
+            "eventCount": 2
+          }
+        ],
         "declaredIds": [],
         "sampleEvents": 2
       }
@@ -498,16 +535,16 @@
       "music": {
         "ids": [
           "remember",
-          "metal",
+          "techno",
           "metalcore",
           "nu-metal",
-          "rock-general",
-          "techno"
+          "metal",
+          "rock-general"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -516,7 +553,7 @@
             "eventCount": 2
           },
           {
-            "id": "metal",
+            "id": "techno",
             "eventCount": 1
           },
           {
@@ -528,11 +565,11 @@
             "eventCount": 1
           },
           {
-            "id": "rock-general",
+            "id": "metal",
             "eventCount": 1
           },
           {
-            "id": "techno",
+            "id": "rock-general",
             "eventCount": 1
           }
         ],
@@ -673,7 +710,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -730,7 +767,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -756,17 +793,17 @@
       "music": {
         "ids": [
           "techno",
-          "electronic",
           "remember",
-          "flamenco-fusion",
+          "electronic",
+          "makina",
           "hardcore",
           "hardstyle",
-          "makina"
+          "flamenco-fusion"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://fabrikmadrid.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -775,15 +812,15 @@
             "eventCount": 6
           },
           {
-            "id": "electronic",
-            "eventCount": 2
-          },
-          {
             "id": "remember",
             "eventCount": 2
           },
           {
-            "id": "flamenco-fusion",
+            "id": "electronic",
+            "eventCount": 2
+          },
+          {
+            "id": "makina",
             "eventCount": 1
           },
           {
@@ -795,7 +832,7 @@
             "eventCount": 1
           },
           {
-            "id": "makina",
+            "id": "flamenco-fusion",
             "eventCount": 1
           }
         ],
@@ -820,7 +857,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.ifema.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -848,13 +885,13 @@
           "electronic",
           "techno",
           "indie-dance",
-          "techno-classics",
-          "trance"
+          "trance",
+          "techno-classics"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.specka.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -871,11 +908,11 @@
             "eventCount": 2
           },
           {
-            "id": "techno-classics",
+            "id": "trance",
             "eventCount": 1
           },
           {
-            "id": "trance",
+            "id": "techno-classics",
             "eventCount": 1
           }
         ],
@@ -900,7 +937,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://teatrokapital.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -953,7 +990,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1006,7 +1043,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1037,7 +1074,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1117,7 +1154,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1147,7 +1184,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1172,40 +1209,32 @@
       "activeStatus": "pendiente de revisión",
       "music": {
         "ids": [
-          "hard-techno",
           "techno",
-          "dance",
+          "hard-techno",
           "electronic",
-          "funk",
           "house",
+          "remember",
+          "dance",
           "indie-dance",
-          "remember"
+          "funk"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
-          {
-            "id": "hard-techno",
-            "eventCount": 2
-          },
           {
             "id": "techno",
             "eventCount": 2
           },
           {
-            "id": "dance",
-            "eventCount": 1
+            "id": "hard-techno",
+            "eventCount": 2
           },
           {
             "id": "electronic",
-            "eventCount": 1
-          },
-          {
-            "id": "funk",
             "eventCount": 1
           },
           {
@@ -1213,11 +1242,19 @@
             "eventCount": 1
           },
           {
+            "id": "remember",
+            "eventCount": 1
+          },
+          {
+            "id": "dance",
+            "eventCount": 1
+          },
+          {
             "id": "indie-dance",
             "eventCount": 1
           },
           {
-            "id": "remember",
+            "id": "funk",
             "eventCount": 1
           }
         ],
@@ -1264,15 +1301,15 @@
           "electro",
           "house",
           "indie-dance",
-          "electronic",
-          "minimal-techno",
+          "trance",
           "remember",
-          "trance"
+          "minimal-techno",
+          "electronic"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1293,11 +1330,7 @@
             "eventCount": 2
           },
           {
-            "id": "electronic",
-            "eventCount": 1
-          },
-          {
-            "id": "minimal-techno",
+            "id": "trance",
             "eventCount": 1
           },
           {
@@ -1305,7 +1338,11 @@
             "eventCount": 1
           },
           {
-            "id": "trance",
+            "id": "minimal-techno",
+            "eventCount": 1
+          },
+          {
+            "id": "electronic",
             "eventCount": 1
           }
         ],
@@ -1326,13 +1363,13 @@
       "music": {
         "ids": [
           "techno",
-          "alternative",
-          "electronic"
+          "electronic",
+          "alternative"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1341,11 +1378,11 @@
             "eventCount": 2
           },
           {
-            "id": "alternative",
+            "id": "electronic",
             "eventCount": 1
           },
           {
-            "id": "electronic",
+            "id": "alternative",
             "eventCount": 1
           }
         ],
@@ -1370,7 +1407,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1424,7 +1461,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1458,7 +1495,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1490,7 +1527,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1523,16 +1560,26 @@
       "activeStatus": "pendiente de revisión",
       "music": {
         "ids": [
+          "indie",
+          "pop-hits",
           "house",
           "tech-house"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
+          {
+            "id": "indie",
+            "eventCount": 1
+          },
+          {
+            "id": "pop-hits",
+            "eventCount": 1
+          },
           {
             "id": "house",
             "eventCount": 1
@@ -1564,7 +1611,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1594,13 +1641,13 @@
       "music": {
         "ids": [
           "techno",
-          "electronic",
-          "house"
+          "house",
+          "electronic"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1609,11 +1656,11 @@
             "eventCount": 7
           },
           {
-            "id": "electronic",
+            "id": "house",
             "eventCount": 1
           },
           {
-            "id": "house",
+            "id": "electronic",
             "eventCount": 1
           }
         ],
@@ -1638,7 +1685,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1692,7 +1739,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1726,7 +1773,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1755,7 +1802,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": null,
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1820,7 +1867,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/istar",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1858,16 +1905,16 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/los-amantes",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "commercial",
+            "id": "house",
             "eventCount": 2
           },
           {
-            "id": "house",
+            "id": "commercial",
             "eventCount": 2
           }
         ],
@@ -1927,7 +1974,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/nomada",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -1965,13 +2012,13 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.todossantosclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
             "id": "commercial",
-            "eventCount": 1
+            "eventCount": 3
           },
           {
             "id": "urban",
@@ -2259,13 +2306,13 @@
         "ids": [
           "house",
           "electro",
-          "progressive-house",
-          "techno"
+          "techno",
+          "progressive-house"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://ra.co/promoters/77821",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2278,11 +2325,11 @@
             "eventCount": 1
           },
           {
-            "id": "progressive-house",
+            "id": "techno",
             "eventCount": 1
           },
           {
-            "id": "techno",
+            "id": "progressive-house",
             "eventCount": 1
           }
         ],
@@ -2314,7 +2361,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://es-mx.ra.co/clubs/169583",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2435,7 +2482,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madcoolfestival.es/faqs",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2471,7 +2518,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2510,7 +2557,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://laissezfairemadrid.com/houdinni-madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2551,7 +2598,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.salaclamores.com/dance-club",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2584,22 +2631,22 @@
       "reviewedAt": "2026-11-27",
       "music": {
         "ids": [
-          "pagode",
-          "samba"
+          "samba",
+          "pagode"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/kube/events/JN5U",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "pagode",
+            "id": "samba",
             "eventCount": 1
           },
           {
-            "id": "samba",
+            "id": "pagode",
             "eventCount": 1
           }
         ],
@@ -2630,7 +2677,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://discotecas-espana.es/discotecas/madrid/guss-club/agenda-diciembre-2026",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2672,7 +2719,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.nomadetemple.com/dining-madrid/speakeasy-bar-%26-nightclub",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2712,7 +2759,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://ra.co/events/2593481",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2748,20 +2795,20 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/es/madrid/event/ghetto-winter-gala/248795",
         "reviewedAt": "2026-11-27",
         "observed": [
+          {
+            "id": "hip-hop",
+            "eventCount": 1
+          },
           {
             "id": "afrobeats",
             "eventCount": 1
           },
           {
             "id": "amapiano",
-            "eventCount": 1
-          },
-          {
-            "id": "hip-hop",
             "eventCount": 1
           }
         ],
@@ -2795,7 +2842,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.tomaticket.es/it-nl/entradas-danze-afrika-club-en-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -2871,7 +2918,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.madticket.es/pagode",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3023,16 +3070,16 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/discotecas-madrid/events/79HI",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "commercial",
+            "id": "urban",
             "eventCount": 1
           },
           {
-            "id": "urban",
+            "id": "commercial",
             "eventCount": 1
           }
         ],
@@ -3064,7 +3111,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/allmadridnightlife/events/inauguracion-luxury-05-12-2026-L745",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3287,7 +3334,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/es/madrid/event/la-formula-del-ruido-con-nina-ggg-lesbiannette-y-distort/254296",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3324,7 +3371,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://lachulafestival.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3358,7 +3405,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madridsalvaje.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3419,7 +3466,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://ra.co/events/2585685",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -3452,7 +3499,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.meetup.com/es-es/living-eventos-sociales/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -4212,12 +4259,17 @@
       "verifiedAt": "2026-11-27",
       "hype": null,
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://applinkers.com/entradas/madrid/calendario/?dia=2026-11-28",
+        "ids": [
+          "pop-hits",
+          "commercial",
+          "reggaeton",
+          "latin"
+        ],
+        "primary": "pop-hits",
+        "status": "series_evidence",
+        "confidence": "medium",
+        "basis": "Descripción de la marca o edición anterior; género probable de esta fecha, no confirmado individualmente.",
+        "source": "https://app.lostardeos.es/events/tardeo-yatengoplan-x-saint-club-4bfo",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Tardeo",
@@ -7042,12 +7094,15 @@
       "attendance": null,
       "interested": null,
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://app.whan.es/club/rubicon",
+        "ids": [
+          "indie",
+          "pop-hits"
+        ],
+        "primary": "indie",
+        "status": "series_evidence",
+        "confidence": "medium",
+        "basis": "Descripción de la marca o edición anterior; género probable de esta fecha, no confirmado individualmente.",
+        "source": "https://fascinadoclub.com/",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Tardeo",
@@ -7497,12 +7552,16 @@
       "nextPrice": null,
       "verification": "Migrado de agenda previa; contraste individual parcial",
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://site.fourvenues.com/es/quienva/events/JHYP",
+        "ids": [
+          "commercial",
+          "house",
+          "urban"
+        ],
+        "primary": "commercial",
+        "status": "event_secondary",
+        "confidence": "medium",
+        "basis": "Géneros publicados por agregador para esta fecha; pendiente contraste primario.",
+        "source": "https://discotecas-espana.es/discotecas/madrid/fitz-madrid/12-diciembre-2026-kuro-jhyp",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Sin confirmar"
@@ -7607,12 +7666,14 @@
       "attendance": null,
       "interested": null,
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://app.whan.es/event/cordura-x-todos-santos-2026-12-12",
+        "ids": [
+          "commercial"
+        ],
+        "primary": "commercial",
+        "status": "series_evidence",
+        "confidence": "medium",
+        "basis": "Descripción de la marca o edición anterior; género probable de esta fecha, no confirmado individualmente.",
+        "source": "https://www.tardea.com/eventos/cordura-x-todos-santos-2026-11-14",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Tardeo",
@@ -7716,12 +7777,17 @@
       "nextPrice": null,
       "verification": "Migrado de agenda previa; contraste individual parcial",
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://site.fourvenues.com/es/bnm-discomadrid/events/tardeo-yatengoplan-x-saintclub-12-12-2026-8IMI",
+        "ids": [
+          "pop-hits",
+          "commercial",
+          "reggaeton",
+          "latin"
+        ],
+        "primary": "pop-hits",
+        "status": "series_evidence",
+        "confidence": "medium",
+        "basis": "Descripción de la marca o edición anterior; género probable de esta fecha, no confirmado individualmente.",
+        "source": "https://app.lostardeos.es/events/tardeo-yatengoplan-x-saint-club-4bfo",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Sin confirmar",
@@ -7789,12 +7855,15 @@
       "nextPrice": null,
       "verification": "Migrado de agenda previa; contraste individual parcial",
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://site.fourvenues.com/es/hi-music-events",
+        "ids": [
+          "indie",
+          "pop-hits"
+        ],
+        "primary": "indie",
+        "status": "series_evidence",
+        "confidence": "medium",
+        "basis": "Descripción de la marca o edición anterior; género probable de esta fecha, no confirmado individualmente.",
+        "source": "https://pompaclub.com/pompa-madrid-tardeo-florida-park",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Sin confirmar"
@@ -8944,12 +9013,14 @@
       "nextPrice": null,
       "verification": "Migrado de agenda previa; contraste individual parcial",
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://lastnight.es/discotecas/madrid/fitz/eventos",
+        "ids": [
+          "tech-house"
+        ],
+        "primary": "tech-house",
+        "status": "artist_inference",
+        "confidence": "medium",
+        "basis": "Perfil musical de la agencia del artista; repertorio de esta edición no confirmado.",
+        "source": "https://secondskinagency.es/artista/les-castizos/",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Sin confirmar"
@@ -9947,12 +10018,14 @@
       "attendance": null,
       "interested": null,
       "music": {
-        "ids": [],
-        "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Formato o género no documentado. Requiere investigar cartel, artistas o descripción; no se hereda del recinto.",
-        "source": "https://app.whan.es/event/cordura-x-todos-santos-2026-12-26",
+        "ids": [
+          "commercial"
+        ],
+        "primary": "commercial",
+        "status": "series_evidence",
+        "confidence": "medium",
+        "basis": "Descripción de la marca o edición anterior; género probable de esta fecha, no confirmado individualmente.",
+        "source": "https://www.tardea.com/eventos/cordura-x-todos-santos-2026-11-14",
         "reviewedAt": "2026-11-27"
       },
       "genreOriginal": "Tardeo",
@@ -13025,7 +13098,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://elrow.com/es/events/upcoming?direct=true",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13045,22 +13118,22 @@
       "reviewedAt": "2026-11-27",
       "music": {
         "ids": [
-          "electronic",
-          "remember"
+          "remember",
+          "electronic"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.2mgroup.es/eventos",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "electronic",
+            "id": "remember",
             "eventCount": 1
           },
           {
-            "id": "remember",
+            "id": "electronic",
             "eventCount": 1
           }
         ],
@@ -13142,7 +13215,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://mypleasure.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13170,7 +13243,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://es.ra.co/promoters/140312",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13197,7 +13270,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madcoolfestival.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13270,14 +13343,21 @@
       "category": "Tardeo itinerante",
       "reviewedAt": "2026-11-27",
       "music": {
-        "ids": [],
+        "ids": [
+          "commercial"
+        ],
         "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Descripción musical registrada; programación específica pendiente.",
+        "status": "observed_programming",
+        "confidence": "medium",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/event/cordura-x-todos-santos-2026-12-12",
         "reviewedAt": "2026-11-27",
-        "observed": [],
+        "observed": [
+          {
+            "id": "commercial",
+            "eventCount": 2
+          }
+        ],
         "declaredIds": [],
         "sampleEvents": 3
       }
@@ -13295,16 +13375,16 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://laissezfairemadrid.com/houdinni-madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "afro-house",
+            "id": "house",
             "eventCount": 1
           },
           {
-            "id": "house",
+            "id": "afro-house",
             "eventCount": 1
           }
         ],
@@ -13327,7 +13407,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://linktr.ee/baile.europa",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13360,7 +13440,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/bonded/events/EADS",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13393,16 +13473,16 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/kube/events/JN5U",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "pagode",
+            "id": "samba",
             "eventCount": 1
           },
           {
-            "id": "samba",
+            "id": "pagode",
             "eventCount": 1
           }
         ],
@@ -13427,7 +13507,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.madticket.es/pagode",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13478,20 +13558,20 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/es/madrid/event/ghetto-winter-gala/248795",
         "reviewedAt": "2026-11-27",
         "observed": [
+          {
+            "id": "hip-hop",
+            "eventCount": 1
+          },
           {
             "id": "afrobeats",
             "eventCount": 1
           },
           {
             "id": "amapiano",
-            "eventCount": 1
-          },
-          {
-            "id": "hip-hop",
             "eventCount": 1
           }
         ],
@@ -13517,7 +13597,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madmadmad.es/eventos/14850",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13554,7 +13634,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://kehay.es/organizador/flat-hi-fi",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13583,7 +13663,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://kehay.es/event/muff-x-afrohispanica-noche-de-club-6b083ba84c74d6cd6aa72a69",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13610,7 +13690,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.nomadetemple.com/dining-madrid/speakeasy-bar-%26-nightclub",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13630,22 +13710,22 @@
       "reviewedAt": "2026-11-27",
       "music": {
         "ids": [
-          "latin",
-          "urban"
+          "urban",
+          "latin"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://clubseek.app/club/guss-club",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "latin",
+            "id": "urban",
             "eventCount": 1
           },
           {
-            "id": "urban",
+            "id": "latin",
             "eventCount": 1
           }
         ],
@@ -13683,7 +13763,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://ra.co/events/2573709",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13708,7 +13788,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://es.ra.co/events/2559942",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13733,7 +13813,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madrid.hivernacle-popupclub.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13794,7 +13874,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://ra.co/events/2585685",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13899,7 +13979,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.meetup.com/es-es/living-eventos-sociales/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13924,7 +14004,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://lachulafestival.es/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13950,7 +14030,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madridsalvaje.com/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -13974,22 +14054,22 @@
       "reviewedAt": "2026-11-27",
       "music": {
         "ids": [
-          "tech-house",
-          "techno"
+          "techno",
+          "tech-house"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/ca/madrid/event/tra-con-angelinanyuli-groovemami-klaudia-sim-y-ch3lo/254295",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "tech-house",
+            "id": "techno",
             "eventCount": 1
           },
           {
-            "id": "techno",
+            "id": "tech-house",
             "eventCount": 1
           }
         ],
@@ -14009,7 +14089,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/es/madrid/event/la-formula-del-ruido-con-nina-ggg-lesbiannette-y-distort/254296",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -14646,7 +14726,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://linktr.ee/baile.europa",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -14686,7 +14766,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/pt/discotecas-madrid/events/87YK",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -14717,22 +14797,22 @@
       ],
       "music": {
         "ids": [
-          "pagode",
-          "samba"
+          "samba",
+          "pagode"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/kube/events/JN5U",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "pagode",
+            "id": "samba",
             "eventCount": 1
           },
           {
-            "id": "samba",
+            "id": "pagode",
             "eventCount": 1
           }
         ],
@@ -14760,7 +14840,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.madticket.es/pagode",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -14789,25 +14869,21 @@
       ],
       "music": {
         "ids": [
-          "electro",
-          "hip-hop",
-          "pop-hits",
           "reggaeton",
-          "trap"
+          "pop-hits",
+          "hip-hop",
+          "trap",
+          "electro"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://lastnight.es/discotecas/madrid/fitz/eventos",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "electro",
-            "eventCount": 1
-          },
-          {
-            "id": "hip-hop",
+            "id": "reggaeton",
             "eventCount": 1
           },
           {
@@ -14815,11 +14891,15 @@
             "eventCount": 1
           },
           {
-            "id": "reggaeton",
+            "id": "hip-hop",
             "eventCount": 1
           },
           {
             "id": "trap",
+            "eventCount": 1
+          },
+          {
+            "id": "electro",
             "eventCount": 1
           }
         ],
@@ -14843,18 +14923,23 @@
       ],
       "music": {
         "ids": [
-          "indie"
+          "indie",
+          "pop-hits"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/rubicon",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
             "id": "indie",
-            "eventCount": 2
+            "eventCount": 3
+          },
+          {
+            "id": "pop-hits",
+            "eventCount": 1
           }
         ],
         "declaredIds": [],
@@ -14877,14 +14962,21 @@
         "aaa-discovery-20261127-10"
       ],
       "music": {
-        "ids": [],
+        "ids": [
+          "commercial"
+        ],
         "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Descripción musical registrada; programación específica pendiente.",
+        "status": "observed_programming",
+        "confidence": "medium",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/la-flaca-tardeo",
         "reviewedAt": "2026-11-27",
-        "observed": [],
+        "observed": [
+          {
+            "id": "commercial",
+            "eventCount": 2
+          }
+        ],
         "declaredIds": [],
         "sampleEvents": 3
       }
@@ -14904,22 +14996,22 @@
       ],
       "music": {
         "ids": [
-          "commercial",
-          "urban"
+          "urban",
+          "commercial"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://app.whan.es/club/rubicon",
         "reviewedAt": "2026-11-27",
         "observed": [
           {
-            "id": "commercial",
+            "id": "urban",
             "eventCount": 1
           },
           {
-            "id": "urban",
+            "id": "commercial",
             "eventCount": 1
           }
         ],
@@ -14949,7 +15041,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://site.fourvenues.com/es/discotecas-madrid/events/houdinni-wednesdays---laissez-faire-02-12-2026-NRRY",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -14988,7 +15080,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15027,7 +15119,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://ra.co/events/2501690",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15059,7 +15151,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15090,7 +15182,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15121,7 +15213,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15159,7 +15251,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://partyppl.co.uk/locatie/flat-hifi-bar",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15191,7 +15283,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://technobeatscloud.com/agenda/eventos/espana/madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15222,14 +15314,14 @@
       "music": {
         "ids": [
           "electro",
-          "electronic",
+          "techno",
           "house",
-          "techno"
+          "electronic"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://technobeatscloud.com/agenda/eventos/espana/madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15238,7 +15330,7 @@
             "eventCount": 1
           },
           {
-            "id": "electronic",
+            "id": "techno",
             "eventCount": 1
           },
           {
@@ -15246,7 +15338,7 @@
             "eventCount": 1
           },
           {
-            "id": "techno",
+            "id": "electronic",
             "eventCount": 1
           }
         ],
@@ -15272,7 +15364,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://technobeatscloud.com/agenda/estilos/hard-techno/espana/madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15306,7 +15398,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madrid.hivernacle-popupclub.com/event/hivernacle-pop-up-club-madrid-maceo-plex-30-01/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15337,7 +15429,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://technobeatscloud.com/agenda/club/fabrik-madrid-es-m-humanes-de-madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15368,7 +15460,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://technobeatscloud.com/en/events/january-2027/spain/madrid",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15400,7 +15492,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://elrow.com/es/events/upcoming?direct=true",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15433,7 +15525,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://madcoolfestival.es/faqs",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15466,7 +15558,7 @@
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://www.bpm-stream.com/ciudad/madrid/",
         "reviewedAt": "2026-11-27",
         "observed": [
@@ -15495,14 +15587,36 @@
         "ev-44"
       ],
       "music": {
-        "ids": [],
+        "ids": [
+          "pop-hits",
+          "commercial",
+          "reggaeton",
+          "latin"
+        ],
         "primary": null,
-        "status": "pending",
-        "confidence": null,
-        "basis": "Descripción musical registrada; programación específica pendiente.",
+        "status": "observed_programming",
+        "confidence": "medium",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://applinkers.com/entradas/madrid/calendario/?dia=2026-11-28",
         "reviewedAt": "2026-11-27",
-        "observed": [],
+        "observed": [
+          {
+            "id": "pop-hits",
+            "eventCount": 2
+          },
+          {
+            "id": "commercial",
+            "eventCount": 2
+          },
+          {
+            "id": "reggaeton",
+            "eventCount": 2
+          },
+          {
+            "id": "latin",
+            "eventCount": 2
+          }
+        ],
         "declaredIds": [],
         "sampleEvents": 2
       }
@@ -15521,27 +15635,27 @@
       ],
       "music": {
         "ids": [
+          "hip-hop",
           "afrobeats",
-          "amapiano",
-          "hip-hop"
+          "amapiano"
         ],
         "primary": null,
         "status": "observed_programming",
         "confidence": "medium",
-        "basis": "Perfil observado en anuncios del inventario, no estilo garantizado de cada sesión.",
+        "basis": "Perfil de programación observada, incluida clasificación provisional; no garantiza el estilo de cada sesión.",
         "source": "https://xceed.me/es/madrid/event/ghetto-winter-gala/248795",
         "reviewedAt": "2026-11-27",
         "observed": [
+          {
+            "id": "hip-hop",
+            "eventCount": 1
+          },
           {
             "id": "afrobeats",
             "eventCount": 1
           },
           {
             "id": "amapiano",
-            "eventCount": 1
-          },
-          {
-            "id": "hip-hop",
             "eventCount": 1
           }
         ],
@@ -16125,10 +16239,10 @@
   "musicAudit": {
     "reviewedAt": "2026-11-27",
     "events": 243,
-    "classified": 226,
-    "pending": 17,
-    "venuesClassified": 63,
-    "promotersClassified": 29,
+    "classified": 234,
+    "pending": 9,
+    "venuesClassified": 64,
+    "promotersClassified": 30,
     "series": 26,
     "nodes": 113
   }

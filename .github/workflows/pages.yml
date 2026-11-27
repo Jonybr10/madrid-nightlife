@@ -35,7 +35,14 @@ jobs:
           print(len(d['events']), 'events;',len(ids),'venues')
           PY
           mkdir -p _site
-          cp index.html agenda.json worldwide.js _site/
+          cp index.html agenda.json worldwide.js operations.html _site/
+          python3 - <<'PY'
+          import datetime, json, os, pathlib
+          pathlib.Path('_site/operations-build.json').write_text(json.dumps({
+              'sha': os.environ['GITHUB_SHA'],
+              'builtAt': datetime.datetime.now(datetime.timezone.utc).isoformat()
+          }))
+          PY
           if [ -f catalog/index.json ]; then
             python3 - <<'PY'
           import json, pathlib

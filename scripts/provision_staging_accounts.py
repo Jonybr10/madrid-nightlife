@@ -30,7 +30,8 @@ def main():
             headers={"apikey":key, "Authorization":"Bearer "+key, "Content-Type":"application/json"})
         try:
             with urllib.request.urlopen(req, timeout=30) as response:
-                return json.load(response)
+                body = response.read()
+                return json.loads(body) if body else None
         except urllib.error.HTTPError as exc:
             raise RuntimeError("API rejected request (HTTP "+str(exc.code)+"). No response body logged.") from None
     # Fail closed before creating identities if the database is not marked staging.

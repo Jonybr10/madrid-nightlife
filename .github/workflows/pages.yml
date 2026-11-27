@@ -36,6 +36,24 @@ jobs:
           PY
           mkdir -p _site
           cp index.html agenda.json _site/
+          if [ -f catalog/index.json ]; then
+            python3 - <<'PY'
+          import json, pathlib
+          base=pathlib.Path('catalog/dice')
+          m=json.loads((base/'manifest.json').read_text())
+          for key in ('artists','venues','review'):
+              data=json.loads((base/m[key]['path']).read_text())
+              rows=data['rows']
+              assert len(rows)==m[key]['rows'], key
+              assert all(len(row)==len(data['fields']) for row in rows), key
+              if key!='review':
+                  assert len({tuple(row[:3]) for row in rows})==len(rows), key
+          print('DICE international catalog validated')
+          PY
+            mkdir -p _site/catalog/dice
+            cp catalog/index.json _site/catalog/
+            cp catalog/dice/*.json _site/catalog/dice/
+          fi
           touch _site/.nojekyll
           printf 'User-agent: *\nDisallow: /\n' > _site/robots.txt
       - uses: actions/configure-pages@v5

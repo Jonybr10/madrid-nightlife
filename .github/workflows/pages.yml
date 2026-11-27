@@ -1,0 +1,46 @@
+name: Publish Madrid Nightlife
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 8,9 * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: madrid-nightlife-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and prepare public files
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, datetime
+          d=json.loads(pathlib.Path('agenda.json').read_text())
+          assert isinstance(d['venues'],list) and isinstance(d['events'],list)
+          ids={v['id'] for v in d['venues']}
+          assert len(ids)==len(d['venues'])
+          assert len({e['id'] for e in d['events']})==len(d['events'])
+          for e in d['events']:
+              assert e['venue'] in ids
+              datetime.date.fromisoformat(e['date'])
+          print(len(d['events']), 'events;',len(ids),'venues')
+          PY
+          mkdir -p _site
+          cp index.html agenda.json _site/
+          touch _site/.nojekyll
+          printf 'User-agent: *\nDisallow: /\n' > _site/robots.txt
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - uses: actions/deploy-pages@v4
+        id: deployment

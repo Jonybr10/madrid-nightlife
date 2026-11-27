@@ -37,7 +37,8 @@ jobs:
           mkdir -p _site
           node --check identity.js
           node --check identity-config.js
-          cp index.html agenda.json worldwide.js operations.html account.html identity.js identity-config.js _site/
+          node --check aaa-context.js
+          cp index.html agenda.json worldwide.js operations.html account.html identity.js identity-config.js aaa-context.js aaa-context.css _site/
           python3 - <<'PY'
           import datetime, json, os, pathlib
           pathlib.Path('_site/operations-build.json').write_text(json.dumps({

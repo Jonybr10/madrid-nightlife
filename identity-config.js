@@ -1,10 +1,14 @@
-// Public runtime configuration only. Never place service_role, OAuth client secrets or user data here.
-// Set enabled=true only after migrations, access tests, approved privacy notice and provider setup.
+// Public configuration only; never publish service_role, OAuth secrets or personal data.
+// Activation requires an approved controller notice, terms, DB policy version, RLS tests and private host.
+// The privateHostingVerified flag is only a release checklist gate, NOT server-side access control.
 window.AAA_IDENTITY_CONFIG = Object.freeze({
   enabled: false,
+  privateHostingVerified: false,
   url: "",
   publishableKey: "",
   providers: [],
   privacyNoticeUrl: "",
-  privacyNoticeVersion: ""
+  privacyNoticeVersion: "",
+  privacySummary: "",
+  termsUrl: ""
 });
